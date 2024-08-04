@@ -15,16 +15,21 @@ p {
 .para { 
     color:rgb(95, 172, 146);
     border: thin;
-    
 }
+
 body{
-    
     background-image: linear-gradient(
         to bottom,
         rgb(102, 66, 136),
         rgb(41, 79, 114)
+        
     );
+
+    height: 100vh
+    ;
 }
+
+
 ul {
     display: block;
     color: rgb(95, 172, 146);
